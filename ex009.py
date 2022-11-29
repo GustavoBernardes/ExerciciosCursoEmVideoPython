@@ -1,3 +1,9 @@
+"""
+
+Faça um programa que leia um número Inteiro qualquer e mostre na tela a sua tabuada.
+
+"""
+
 n = int(input('Digite o número que deseja saber a tabuada: '))
 
 print(f'''
